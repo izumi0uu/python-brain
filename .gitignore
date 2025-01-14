@@ -1,0 +1,9 @@
+echo "*.pyc
+__pycache__/
+.env
+*.log
+venv/
+.idea/
+.vscode/
+*.txt
+.cursorrules

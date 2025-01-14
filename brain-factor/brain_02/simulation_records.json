@@ -1,0 +1,3506 @@
+[
+  {
+    "alpha_id": "rjnmpb8",
+    "datafield": "group_rank(assets/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:51:01"
+  },
+  {
+    "alpha_id": "X7OEGRz",
+    "datafield": "group_rank(assets_curr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:51:55"
+  },
+  {
+    "alpha_id": "qjwZ10Z",
+    "datafield": "group_rank(bookvalue_ps/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:52:35"
+  },
+  {
+    "alpha_id": "Q7odk6g",
+    "datafield": "group_rank(capex/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:53:15"
+  },
+  {
+    "alpha_id": "V7RogxG",
+    "datafield": "group_rank(cash/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:53:47"
+  },
+  {
+    "alpha_id": "kjY5le6",
+    "datafield": "group_rank(cash_st/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:54:16"
+  },
+  {
+    "alpha_id": "mjlk9ox",
+    "datafield": "group_rank(cashflow/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:54:39"
+  },
+  {
+    "alpha_id": "pjpggx3",
+    "datafield": "group_rank(cashflow_dividends/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:55:14"
+  },
+  {
+    "alpha_id": "5l2VRm1",
+    "datafield": "group_rank(cashflow_fin/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:55:54"
+  },
+  {
+    "alpha_id": "oqkeQ6b",
+    "datafield": "group_rank(cashflow_invst/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:56:17"
+  },
+  {
+    "alpha_id": "djPw8px",
+    "datafield": "group_rank(cashflow_op/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:56:38"
+  },
+  {
+    "alpha_id": "5l2V7kn",
+    "datafield": "group_rank(cogs/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:56:55"
+  },
+  {
+    "alpha_id": "N72oqeo",
+    "datafield": "group_rank(current_ratio/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:57:32"
+  },
+  {
+    "alpha_id": "W7xmdXx",
+    "datafield": "group_rank(debt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:57:55"
+  },
+  {
+    "alpha_id": "2l2kRxY",
+    "datafield": "group_rank(debt_lt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 04:58:19"
+  },
+  {
+    "alpha_id": "7j2Vx8L",
+    "datafield": "group_rank(debt_st/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:00:21"
+  },
+  {
+    "alpha_id": "M72Akln",
+    "datafield": "group_rank(depre_amort/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:01:07"
+  },
+  {
+    "alpha_id": "El2AkLr",
+    "datafield": "group_rank(ebit/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:01:29"
+  },
+  {
+    "alpha_id": "6l2bEYE",
+    "datafield": "group_rank(ebitda/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:01:49"
+  },
+  {
+    "alpha_id": "6l2bwzO",
+    "datafield": "group_rank(employee/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:02:29"
+  },
+  {
+    "alpha_id": "J72LObO",
+    "datafield": "group_rank(enterprise_value/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:03:03"
+  },
+  {
+    "alpha_id": "ezWJxml",
+    "datafield": "group_rank(eps/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:03:27"
+  },
+  {
+    "alpha_id": "vjoVNRA",
+    "datafield": "group_rank(equity/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:04:04"
+  },
+  {
+    "alpha_id": "n7Xb71z",
+    "datafield": "group_rank(fnd6_acdo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:04:39"
+  },
+  {
+    "alpha_id": "M72A7e9",
+    "datafield": "group_rank(fnd6_acodo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:05:02"
+  },
+  {
+    "alpha_id": "1w25xZz",
+    "datafield": "group_rank(fnd6_acox/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:05:37"
+  },
+  {
+    "alpha_id": "pjpgRr6",
+    "datafield": "group_rank(fnd6_acqgdwl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:06:00"
+  },
+  {
+    "alpha_id": "pjpgRvg",
+    "datafield": "group_rank(fnd6_acqintan/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:06:20"
+  },
+  {
+    "alpha_id": "R7vL6ad",
+    "datafield": "group_rank(fnd6_adesinda_curcd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:06:43"
+  },
+  {
+    "alpha_id": "1w25jzK",
+    "datafield": "group_rank(fnd6_aldo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:07:24"
+  },
+  {
+    "alpha_id": "N72oNwo",
+    "datafield": "group_rank(fnd6_am/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:07:47"
+  },
+  {
+    "alpha_id": "Al2dxRd",
+    "datafield": "group_rank(fnd6_aodo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:08:16"
+  },
+  {
+    "alpha_id": "ljNZaKO",
+    "datafield": "group_rank(fnd6_aox/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:08:39"
+  },
+  {
+    "alpha_id": "Y79dl5w",
+    "datafield": "group_rank(fnd6_aqc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:09:13"
+  },
+  {
+    "alpha_id": "0waWx76",
+    "datafield": "group_rank(fnd6_aqi/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:09:51"
+  },
+  {
+    "alpha_id": "8l2qEK7",
+    "datafield": "group_rank(fnd6_aqs/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:10:23"
+  },
+  {
+    "alpha_id": "P7AEzXK",
+    "datafield": "group_rank(fnd6_beta/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:10:57"
+  },
+  {
+    "alpha_id": "5l2Ve0X",
+    "datafield": "group_rank(fnd6_capxv/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:11:26"
+  },
+  {
+    "alpha_id": "5l2Vemn",
+    "datafield": "group_rank(fnd6_ceql/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:11:49"
+  },
+  {
+    "alpha_id": "oqkeZW5",
+    "datafield": "group_rank(fnd6_ch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:12:12"
+  },
+  {
+    "alpha_id": "R7vLvZz",
+    "datafield": "group_rank(fnd6_ci/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:12:37"
+  },
+  {
+    "alpha_id": "vjoVb93",
+    "datafield": "group_rank(fnd6_cibegni/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:13:12"
+  },
+  {
+    "alpha_id": "pjpgk2X",
+    "datafield": "group_rank(fnd6_cicurr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:13:37"
+  },
+  {
+    "alpha_id": "1w25ANJ",
+    "datafield": "group_rank(fnd6_cidergl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:14:09"
+  },
+  {
+    "alpha_id": "kjY5p3k",
+    "datafield": "group_rank(fnd6_cik/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:14:38"
+  },
+  {
+    "alpha_id": "xjEaLwW",
+    "datafield": "group_rank(fnd6_cimii/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:15:04"
+  },
+  {
+    "alpha_id": "xjEaLVN",
+    "datafield": "group_rank(fnd6_ciother/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:15:25"
+  },
+  {
+    "alpha_id": "qjwZQlv",
+    "datafield": "group_rank(fnd6_cipen/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:16:27"
+  },
+  {
+    "alpha_id": "vjo0KwA",
+    "datafield": "group_rank(fnd6_cisecgl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:16:49"
+  },
+  {
+    "alpha_id": "Z71ZR1Y",
+    "datafield": "group_rank(fnd6_citotal/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:17:20"
+  },
+  {
+    "alpha_id": "W7xkj2O",
+    "datafield": "group_rank(fnd6_city/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:17:55"
+  },
+  {
+    "alpha_id": "mjlOwvW",
+    "datafield": "group_rank(fnd6_cld2/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:18:29"
+  },
+  {
+    "alpha_id": "ljNxdMO",
+    "datafield": "group_rank(fnd6_cld3/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:18:52"
+  },
+  {
+    "alpha_id": "Z71Z53Z",
+    "datafield": "group_rank(fnd6_cld4/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:19:13"
+  },
+  {
+    "alpha_id": "a7gJZ7O",
+    "datafield": "group_rank(fnd6_cld5/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:20:02"
+  },
+  {
+    "alpha_id": "3l2dZbO",
+    "datafield": "group_rank(fnd6_cptmfmq_actq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:20:22"
+  },
+  {
+    "alpha_id": "7j2OEjL",
+    "datafield": "group_rank(fnd6_cptmfmq_atq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:20:42"
+  },
+  {
+    "alpha_id": "L72eJge",
+    "datafield": "group_rank(fnd6_cptmfmq_ceqq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:21:11"
+  },
+  {
+    "alpha_id": "3l2dWZe",
+    "datafield": "group_rank(fnd6_cptmfmq_dlttq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:21:43"
+  },
+  {
+    "alpha_id": "djPqqXw",
+    "datafield": "group_rank(fnd6_cptmfmq_dpq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:22:11"
+  },
+  {
+    "alpha_id": "gj0v7zM",
+    "datafield": "group_rank(fnd6_cptmfmq_lctq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:22:49"
+  },
+  {
+    "alpha_id": "R7vXZ6o",
+    "datafield": "group_rank(fnd6_cptmfmq_oibdpq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:23:43"
+  },
+  {
+    "alpha_id": "M72wqdM",
+    "datafield": "group_rank(fnd6_cptmfmq_opepsq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:24:22"
+  },
+  {
+    "alpha_id": "xjEMzVw",
+    "datafield": "group_rank(fnd6_cptmfmq_saleq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:25:37"
+  },
+  {
+    "alpha_id": "ezWAqEd",
+    "datafield": "group_rank(fnd6_cptnewqv1300_actq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:26:11"
+  },
+  {
+    "alpha_id": "El23gGK",
+    "datafield": "group_rank(fnd6_cptnewqv1300_apq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:26:40"
+  },
+  {
+    "alpha_id": "wjv65n2",
+    "datafield": "group_rank(fnd6_cptnewqv1300_atq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:27:09"
+  },
+  {
+    "alpha_id": "X7Oq1Lb",
+    "datafield": "group_rank(fnd6_cptnewqv1300_ceqq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:27:43"
+  },
+  {
+    "alpha_id": "Gl7VoV3",
+    "datafield": "group_rank(fnd6_cptnewqv1300_dlttq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:28:15"
+  },
+  {
+    "alpha_id": "5l2RwxJ",
+    "datafield": "group_rank(fnd6_cptnewqv1300_dpq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:28:42"
+  },
+  {
+    "alpha_id": "Al26wEY",
+    "datafield": "group_rank(fnd6_cptnewqv1300_epsf12/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:29:05"
+  },
+  {
+    "alpha_id": "Y79Z0kW",
+    "datafield": "group_rank(fnd6_cptnewqv1300_epsfxq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:29:25"
+  },
+  {
+    "alpha_id": "jjMLr1W",
+    "datafield": "group_rank(fnd6_cptnewqv1300_epsx12/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:30:05"
+  },
+  {
+    "alpha_id": "a7gJ1XR",
+    "datafield": "group_rank(fnd6_cptnewqv1300_lctq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:30:37"
+  },
+  {
+    "alpha_id": "9X2oXj9",
+    "datafield": "group_rank(fnd6_cptnewqv1300_ltq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:31:28"
+  },
+  {
+    "alpha_id": "Q7oe3XQ",
+    "datafield": "group_rank(fnd6_cptnewqv1300_nopiq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:31:48"
+  },
+  {
+    "alpha_id": "ezWA95J",
+    "datafield": "group_rank(fnd6_cptnewqv1300_oeps12/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:32:09"
+  },
+  {
+    "alpha_id": "zkLa8J1",
+    "datafield": "group_rank(fnd6_cptnewqv1300_oiadpq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:32:35"
+  },
+  {
+    "alpha_id": "pjp05Ao",
+    "datafield": "group_rank(fnd6_cptnewqv1300_oibdpq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:33:01"
+  },
+  {
+    "alpha_id": "8l2ARez",
+    "datafield": "group_rank(fnd6_cptnewqv1300_opepsq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:34:38"
+  },
+  {
+    "alpha_id": "gj0vao0",
+    "datafield": "group_rank(fnd6_cptnewqv1300_rectq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:35:09"
+  },
+  {
+    "alpha_id": "9X2oGkV",
+    "datafield": "group_rank(fnd6_cptnewqv1300_req/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:36:00"
+  },
+  {
+    "alpha_id": "bjKpJM6",
+    "datafield": "group_rank(fnd6_cptnewqv1300_saleq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:36:21"
+  },
+  {
+    "alpha_id": "R7vXlJ1",
+    "datafield": "group_rank(fnd6_cptrank_gvkeymap/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:36:44"
+  },
+  {
+    "alpha_id": "Y79ZEaJ",
+    "datafield": "group_rank(fnd6_cshpri/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:37:10"
+  },
+  {
+    "alpha_id": "O72eVmg",
+    "datafield": "group_rank(fnd6_cshr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:38:15"
+  },
+  {
+    "alpha_id": "xjEMWLq",
+    "datafield": "group_rank(fnd6_cshtr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:38:38"
+  },
+  {
+    "alpha_id": "R7vXP8j",
+    "datafield": "group_rank(fnd6_cshtrq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:38:59"
+  },
+  {
+    "alpha_id": "xjEMEOq",
+    "datafield": "group_rank(fnd6_cstkcv/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:39:25"
+  },
+  {
+    "alpha_id": "jjMLK15",
+    "datafield": "group_rank(fnd6_cstkcvq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:40:44"
+  },
+  {
+    "alpha_id": "W7xkrKj",
+    "datafield": "group_rank(fnd6_currencya_curcd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:41:13"
+  },
+  {
+    "alpha_id": "7j2O5zQ",
+    "datafield": "group_rank(fnd6_currencyqv1300_curcd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:42:00"
+  },
+  {
+    "alpha_id": null,
+    "datafield": "group_rank(fnd6_dc/cap, subindustry)",
+    "status": "error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "timestamp": "2025-01-12 05:42:39"
+  },
+  {
+    "alpha_id": "ljNxoQN",
+    "datafield": "group_rank(fnd6_dclo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:43:11"
+  },
+  {
+    "alpha_id": "Gl7VZ5Q",
+    "datafield": "group_rank(fnd6_dcpstk/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:43:32"
+  },
+  {
+    "alpha_id": "8l2g86W",
+    "datafield": "group_rank(fnd6_dcvsr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:44:30"
+  },
+  {
+    "alpha_id": "W7xK1Ad",
+    "datafield": "group_rank(fnd6_dcvsub/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:45:19"
+  },
+  {
+    "alpha_id": "wjvXqzd",
+    "datafield": "group_rank(fnd6_dcvt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:45:43"
+  },
+  {
+    "alpha_id": "5l2NbR6",
+    "datafield": "group_rank(fnd6_dd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:46:09"
+  },
+  {
+    "alpha_id": "gj07Ozm",
+    "datafield": "group_rank(fnd6_dd1/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:46:47"
+  },
+  {
+    "alpha_id": "bjK752M",
+    "datafield": "group_rank(fnd6_dd1q/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:47:35"
+  },
+  {
+    "alpha_id": "M729oNa",
+    "datafield": "group_rank(fnd6_dd2/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:48:02"
+  },
+  {
+    "alpha_id": "oqkQemm",
+    "datafield": "group_rank(fnd6_dd3/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:48:42"
+  },
+  {
+    "alpha_id": "O72Kvz1",
+    "datafield": "group_rank(fnd6_dd4/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:49:09"
+  },
+  {
+    "alpha_id": "qjweerV",
+    "datafield": "group_rank(fnd6_dd5/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:49:52"
+  },
+  {
+    "alpha_id": "ljNJ6o7",
+    "datafield": "group_rank(fnd6_dilavx/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:51:08"
+  },
+  {
+    "alpha_id": "V7RKqeM",
+    "datafield": "group_rank(fnd6_dlcch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:51:43"
+  },
+  {
+    "alpha_id": "a7gXP6w",
+    "datafield": "group_rank(fnd6_dltis/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:52:28"
+  },
+  {
+    "alpha_id": "K72xwlE",
+    "datafield": "group_rank(fnd6_dlto/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:53:03"
+  },
+  {
+    "alpha_id": "Gl7EMGG",
+    "datafield": "group_rank(fnd6_dltp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:53:54"
+  },
+  {
+    "alpha_id": "R7v0NXe",
+    "datafield": "group_rank(fnd6_dltr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:54:23"
+  },
+  {
+    "alpha_id": "1w26JqR",
+    "datafield": "group_rank(fnd6_dm/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:54:52"
+  },
+  {
+    "alpha_id": "rjnQWAE",
+    "datafield": "group_rank(fnd6_dn/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:55:46"
+  },
+  {
+    "alpha_id": "M729xra",
+    "datafield": "group_rank(fnd6_donr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:56:11"
+  },
+  {
+    "alpha_id": "mjle85E",
+    "datafield": "group_rank(fnd6_dpvieb/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:56:35"
+  },
+  {
+    "alpha_id": "6l2g9qp",
+    "datafield": "group_rank(fnd6_drc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:57:04"
+  },
+  {
+    "alpha_id": "Q7om91p",
+    "datafield": "group_rank(fnd6_drlt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:57:29"
+  },
+  {
+    "alpha_id": "8l2gp8z",
+    "datafield": "group_rank(fnd6_ds/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:57:58"
+  },
+  {
+    "alpha_id": "oqkQNbm",
+    "datafield": "group_rank(fnd6_dudd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:58:33"
+  },
+  {
+    "alpha_id": "El2ol2m",
+    "datafield": "group_rank(fnd6_dvpa/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:59:05"
+  },
+  {
+    "alpha_id": "vjoakdA",
+    "datafield": "group_rank(fnd6_dxd2/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:59:31"
+  },
+  {
+    "alpha_id": "zkLX86O",
+    "datafield": "group_rank(fnd6_dxd3/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 05:59:57"
+  },
+  {
+    "alpha_id": "bjK7bzK",
+    "datafield": "group_rank(fnd6_dxd4/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:00:23"
+  },
+  {
+    "alpha_id": "R7v06za",
+    "datafield": "group_rank(fnd6_dxd5/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:00:58"
+  },
+  {
+    "alpha_id": "xjEX1lw",
+    "datafield": "group_rank(fnd6_ein/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:01:33"
+  },
+  {
+    "alpha_id": "J72R8VO",
+    "datafield": "group_rank(fnd6_esopct/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:02:24"
+  },
+  {
+    "alpha_id": "ezWeaNg",
+    "datafield": "group_rank(fnd6_esopnr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:02:47"
+  },
+  {
+    "alpha_id": "9X2gGbe",
+    "datafield": "group_rank(fnd6_esopr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:03:07"
+  },
+  {
+    "alpha_id": "8l2gVza",
+    "datafield": "group_rank(fnd6_esubc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:03:50"
+  },
+  {
+    "alpha_id": "Y79XEGq",
+    "datafield": "group_rank(fnd6_exre/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:04:11"
+  },
+  {
+    "alpha_id": "1w26l2m",
+    "datafield": "group_rank(fnd6_fatb/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:04:39"
+  },
+  {
+    "alpha_id": "kjYeGjg",
+    "datafield": "group_rank(fnd6_fatc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:05:09"
+  },
+  {
+    "alpha_id": "xjEXW8q",
+    "datafield": "group_rank(fnd6_fate/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:05:29"
+  },
+  {
+    "alpha_id": "n7XwQ5q",
+    "datafield": "group_rank(fnd6_fatl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:05:55"
+  },
+  {
+    "alpha_id": "Z71kNmj",
+    "datafield": "group_rank(fnd6_fatn/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:06:24"
+  },
+  {
+    "alpha_id": "V7RKRwM",
+    "datafield": "group_rank(fnd6_fato/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:06:45"
+  },
+  {
+    "alpha_id": "Al2q8aR",
+    "datafield": "group_rank(fnd6_fatp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:07:56"
+  },
+  {
+    "alpha_id": "Al2qXaw",
+    "datafield": "group_rank(fnd6_fiao/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:08:28"
+  },
+  {
+    "alpha_id": "6l2gW75",
+    "datafield": "group_rank(fnd6_fic/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:08:57"
+  },
+  {
+    "alpha_id": "5l2Nmr6",
+    "datafield": "group_rank(fnd6_fopo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:09:21"
+  },
+  {
+    "alpha_id": "5l2NXQX",
+    "datafield": "group_rank(fnd6_fopox/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:09:55"
+  },
+  {
+    "alpha_id": "gj07n7O",
+    "datafield": "group_rank(fnd6_fyrc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:10:19"
+  },
+  {
+    "alpha_id": "1w26r06",
+    "datafield": "group_rank(fnd6_ibmii/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:10:39"
+  },
+  {
+    "alpha_id": "J720V0W",
+    "datafield": "group_rank(fnd6_idesindq_curcd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:10:58"
+  },
+  {
+    "alpha_id": "djP8kJx",
+    "datafield": "group_rank(fnd6_idit/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:12:29"
+  },
+  {
+    "alpha_id": "n7Xk9gl",
+    "datafield": "group_rank(fnd6_incorp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:12:55"
+  },
+  {
+    "alpha_id": "vjonq0a",
+    "datafield": "group_rank(fnd6_intan/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:13:24"
+  },
+  {
+    "alpha_id": "oqkw5Yl",
+    "datafield": "group_rank(fnd6_intc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:14:12"
+  },
+  {
+    "alpha_id": "Y79wGrM",
+    "datafield": "group_rank(fnd6_intpn/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:14:35"
+  },
+  {
+    "alpha_id": "Al2JM5W",
+    "datafield": "group_rank(fnd6_invfg/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:15:04"
+  },
+  {
+    "alpha_id": "O72warY",
+    "datafield": "group_rank(fnd6_invo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:15:34"
+  },
+  {
+    "alpha_id": "2l2qkRw",
+    "datafield": "group_rank(fnd6_invrm/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:16:03"
+  },
+  {
+    "alpha_id": "xjEwMzq",
+    "datafield": "group_rank(fnd6_invwip/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:16:41"
+  },
+  {
+    "alpha_id": "8l2kgxV",
+    "datafield": "group_rank(fnd6_itcb/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:17:36"
+  },
+  {
+    "alpha_id": "rjn66od",
+    "datafield": "group_rank(fnd6_itci/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:17:59"
+  },
+  {
+    "alpha_id": "pjpJoAv",
+    "datafield": "group_rank(fnd6_ivaco/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:18:31"
+  },
+  {
+    "alpha_id": "vjonzkG",
+    "datafield": "group_rank(fnd6_ivaeq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:20:01"
+  },
+  {
+    "alpha_id": "K72Ywzg",
+    "datafield": "group_rank(fnd6_ivao/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:20:41"
+  },
+  {
+    "alpha_id": "O72wbnp",
+    "datafield": "group_rank(fnd6_ivch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:21:07"
+  },
+  {
+    "alpha_id": "2l2qvEN",
+    "datafield": "group_rank(fnd6_ivst/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:21:33"
+  },
+  {
+    "alpha_id": "V7RwOK8",
+    "datafield": "group_rank(fnd6_ivstch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:22:10"
+  },
+  {
+    "alpha_id": "wjvwL3Y",
+    "datafield": "group_rank(fnd6_lcox/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:22:31"
+  },
+  {
+    "alpha_id": "rjn6Wbd",
+    "datafield": "group_rank(fnd6_lcoxdr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:22:54"
+  },
+  {
+    "alpha_id": "ljN60oe",
+    "datafield": "group_rank(fnd6_lifr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:23:14"
+  },
+  {
+    "alpha_id": "oqkwKqn",
+    "datafield": "group_rank(fnd6_lno/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:23:38"
+  },
+  {
+    "alpha_id": "5l27O7J",
+    "datafield": "group_rank(fnd6_loc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:24:01"
+  },
+  {
+    "alpha_id": "N72WRqX",
+    "datafield": "group_rank(fnd6_lol2/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:24:33"
+  },
+  {
+    "alpha_id": "djP8Zpv",
+    "datafield": "group_rank(fnd6_loxdr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:25:02"
+  },
+  {
+    "alpha_id": "V7RwGa5",
+    "datafield": "group_rank(fnd6_lqpl1/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:25:25"
+  },
+  {
+    "alpha_id": "7j2qjbb",
+    "datafield": "group_rank(fnd6_lul3/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:25:45"
+  },
+  {
+    "alpha_id": "M72l76z",
+    "datafield": "group_rank(fnd6_mfma1_aoloch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:26:11"
+  },
+  {
+    "alpha_id": "kjYkVLK",
+    "datafield": "group_rank(fnd6_mfma1_apalch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:26:49"
+  },
+  {
+    "alpha_id": "N72Wamp",
+    "datafield": "group_rank(fnd6_mfma1_at/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:27:20"
+  },
+  {
+    "alpha_id": "O72wN61",
+    "datafield": "group_rank(fnd6_mfma1_capx/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:27:44"
+  },
+  {
+    "alpha_id": "9X2PWR2",
+    "datafield": "group_rank(fnd6_mfma1_csho/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:28:04"
+  },
+  {
+    "alpha_id": "qjwkE9V",
+    "datafield": "group_rank(fnd6_mfma1_dp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:28:28"
+  },
+  {
+    "alpha_id": "pjpJvG6",
+    "datafield": "group_rank(fnd6_mfma1_dpc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:28:48"
+  },
+  {
+    "alpha_id": "vjon1vb",
+    "datafield": "group_rank(fnd6_mfma1_invch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:29:14"
+  },
+  {
+    "alpha_id": "3l2Y0oZ",
+    "datafield": "group_rank(fnd6_mfma2_oancf/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:29:57"
+  },
+  {
+    "alpha_id": "ezW81K6",
+    "datafield": "group_rank(fnd6_mfma2_opeps/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:30:26"
+  },
+  {
+    "alpha_id": "1w2VOkJ",
+    "datafield": "group_rank(fnd6_mfma2_recch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:30:55"
+  },
+  {
+    "alpha_id": "ljN6Ev8",
+    "datafield": "group_rank(fnd6_mfma2_revt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:31:18"
+  },
+  {
+    "alpha_id": "djP83w2",
+    "datafield": "group_rank(fnd6_mfma2_txach/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:31:41"
+  },
+  {
+    "alpha_id": "L72bmmL",
+    "datafield": "group_rank(fnd6_mfmq_cheq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:32:01"
+  },
+  {
+    "alpha_id": "xjEw58b",
+    "datafield": "group_rank(fnd6_mfmq_cogsq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:33:34"
+  },
+  {
+    "alpha_id": "mjl2lk9",
+    "datafield": "group_rank(fnd6_mfmq_cshprq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:34:12"
+  },
+  {
+    "alpha_id": "X7Owx25",
+    "datafield": "group_rank(fnd6_mfmq_dlcq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:34:55"
+  },
+  {
+    "alpha_id": "V7RwLr5",
+    "datafield": "group_rank(fnd6_mfmq_ibcomq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:35:16"
+  },
+  {
+    "alpha_id": "qjwk21P",
+    "datafield": "group_rank(fnd6_mfmq_mibtq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:36:07"
+  },
+  {
+    "alpha_id": "n7XkGvw",
+    "datafield": "group_rank(fnd6_mfmq_piq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:36:33"
+  },
+  {
+    "alpha_id": "3l2YKnX",
+    "datafield": "group_rank(fnd6_mibn/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:36:54"
+  },
+  {
+    "alpha_id": "3l2YNqZ",
+    "datafield": "group_rank(fnd6_mibt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:37:14"
+  },
+  {
+    "alpha_id": "djP8GYY",
+    "datafield": "group_rank(fnd6_mkvalt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:37:43"
+  },
+  {
+    "alpha_id": "3l2Y8LZ",
+    "datafield": "group_rank(fnd6_mkvaltq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:38:03"
+  },
+  {
+    "alpha_id": "djPg2eE",
+    "datafield": "group_rank(fnd6_mrc1/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:38:44"
+  },
+  {
+    "alpha_id": "vjoxKAG",
+    "datafield": "group_rank(fnd6_mrc2/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:39:04"
+  },
+  {
+    "alpha_id": "M72qPxk",
+    "datafield": "group_rank(fnd6_mrc3/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:39:33"
+  },
+  {
+    "alpha_id": "O72q0LR",
+    "datafield": "group_rank(fnd6_mrc4/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:39:50"
+  },
+  {
+    "alpha_id": "bjKVGOm",
+    "datafield": "group_rank(fnd6_mrc5/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:40:22"
+  },
+  {
+    "alpha_id": "5l23bEN",
+    "datafield": "group_rank(fnd6_mrct/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:41:33"
+  },
+  {
+    "alpha_id": "rjnEgQ1",
+    "datafield": "group_rank(fnd6_mrcta/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:41:53"
+  },
+  {
+    "alpha_id": "1w21Qqk",
+    "datafield": "group_rank(fnd6_msa/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:42:22"
+  },
+  {
+    "alpha_id": "gj0wEGK",
+    "datafield": "group_rank(fnd6_newa1v1300_aco/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:43:03"
+  },
+  {
+    "alpha_id": "djPgLAJ",
+    "datafield": "group_rank(fnd6_newa1v1300_acominc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:43:23"
+  },
+  {
+    "alpha_id": "xjE9gEW",
+    "datafield": "group_rank(fnd6_newa1v1300_act/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:43:55"
+  },
+  {
+    "alpha_id": "R7vqLld",
+    "datafield": "group_rank(fnd6_newa1v1300_ano/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:44:31"
+  },
+  {
+    "alpha_id": "M72qwbk",
+    "datafield": "group_rank(fnd6_newa1v1300_ao/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:44:54"
+  },
+  {
+    "alpha_id": "O72qKG1",
+    "datafield": "group_rank(fnd6_newa1v1300_aocidergl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:45:34"
+  },
+  {
+    "alpha_id": "1w21VvX",
+    "datafield": "group_rank(fnd6_newa1v1300_aociother/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:45:57"
+  },
+  {
+    "alpha_id": "djPggmw",
+    "datafield": "group_rank(fnd6_newa1v1300_aocipen/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:46:40"
+  },
+  {
+    "alpha_id": "rjnEL1m",
+    "datafield": "group_rank(fnd6_newa1v1300_aol2/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:47:11"
+  },
+  {
+    "alpha_id": "n7XYond",
+    "datafield": "group_rank(fnd6_newa1v1300_aoloch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:47:34"
+  },
+  {
+    "alpha_id": "a7gMlmO",
+    "datafield": "group_rank(fnd6_newa1v1300_ap/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:47:55"
+  },
+  {
+    "alpha_id": "Al2Ygag",
+    "datafield": "group_rank(fnd6_newa1v1300_apalch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:49:31"
+  },
+  {
+    "alpha_id": "wjvO58Q",
+    "datafield": "group_rank(fnd6_newa1v1300_aqpl1/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:49:56"
+  },
+  {
+    "alpha_id": "Y79nNMJ",
+    "datafield": "group_rank(fnd6_newa1v1300_at/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:50:20"
+  },
+  {
+    "alpha_id": "pjpo88q",
+    "datafield": "group_rank(fnd6_newa1v1300_aul3/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:50:54"
+  },
+  {
+    "alpha_id": "6l23EvJ",
+    "datafield": "group_rank(fnd6_newa1v1300_bkvlps/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:51:23"
+  },
+  {
+    "alpha_id": "oqkAYdl",
+    "datafield": "group_rank(fnd6_newa1v1300_caps/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:51:54"
+  },
+  {
+    "alpha_id": "xjE9kOm",
+    "datafield": "group_rank(fnd6_newa1v1300_capx/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:52:39"
+  },
+  {
+    "alpha_id": "0wa9Ew8",
+    "datafield": "group_rank(fnd6_newa1v1300_ceq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:53:02"
+  },
+  {
+    "alpha_id": "n7XY86E",
+    "datafield": "group_rank(fnd6_newa1v1300_ceqt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:53:43"
+  },
+  {
+    "alpha_id": "Q7oqGEw",
+    "datafield": "group_rank(fnd6_newa1v1300_che/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:54:08"
+  },
+  {
+    "alpha_id": "W7xn7Qj",
+    "datafield": "group_rank(fnd6_newa1v1300_chech/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:54:32"
+  },
+  {
+    "alpha_id": "K72q72z",
+    "datafield": "group_rank(fnd6_newa1v1300_cogs/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:55:00"
+  },
+  {
+    "alpha_id": "J72YxvO",
+    "datafield": "group_rank(fnd6_newa1v1300_cshfd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:55:23"
+  },
+  {
+    "alpha_id": "mjlJmw6",
+    "datafield": "group_rank(fnd6_newa1v1300_cshi/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:55:44"
+  },
+  {
+    "alpha_id": "K72qrQ8",
+    "datafield": "group_rank(fnd6_newa1v1300_csho/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:57:06"
+  },
+  {
+    "alpha_id": "K72qmvx",
+    "datafield": "group_rank(fnd6_newa1v1300_cstk/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:57:44"
+  },
+  {
+    "alpha_id": "ezWg5VE",
+    "datafield": "group_rank(fnd6_newa1v1300_dcom/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:58:23"
+  },
+  {
+    "alpha_id": "El2YmWm",
+    "datafield": "group_rank(fnd6_newa1v1300_dlc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:59:06"
+  },
+  {
+    "alpha_id": "7j20G3Z",
+    "datafield": "group_rank(fnd6_newa1v1300_dltt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 06:59:33"
+  },
+  {
+    "alpha_id": "Gl7YXlx",
+    "datafield": "group_rank(fnd6_newa1v1300_dp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:00:02"
+  },
+  {
+    "alpha_id": "5l23ANn",
+    "datafield": "group_rank(fnd6_newa1v1300_dpact/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:00:31"
+  },
+  {
+    "alpha_id": "zkLQGpO",
+    "datafield": "group_rank(fnd6_newa1v1300_dpc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:01:11"
+  },
+  {
+    "alpha_id": "pjpoGkq",
+    "datafield": "group_rank(fnd6_newa1v1300_dv/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:01:37"
+  },
+  {
+    "alpha_id": "Al2Ym3Y",
+    "datafield": "group_rank(fnd6_newa1v1300_dvc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:01:58"
+  },
+  {
+    "alpha_id": "xjE9W5b",
+    "datafield": "group_rank(fnd6_newa1v1300_dvt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:02:19"
+  },
+  {
+    "alpha_id": "zkLQeoE",
+    "datafield": "group_rank(fnd6_newa1v1300_ebit/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:02:40"
+  },
+  {
+    "alpha_id": "gj0wL20",
+    "datafield": "group_rank(fnd6_newa1v1300_ebitda/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:03:03"
+  },
+  {
+    "alpha_id": "R7vqoXn",
+    "datafield": "group_rank(fnd6_newa1v1300_emp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:03:46"
+  },
+  {
+    "alpha_id": "Al2Y55Y",
+    "datafield": "group_rank(fnd6_newa1v1300_epsfi/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:04:11"
+  },
+  {
+    "alpha_id": "vjoxXew",
+    "datafield": "group_rank(fnd6_newa1v1300_epsfx/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:04:34"
+  },
+  {
+    "alpha_id": "M72qv7n",
+    "datafield": "group_rank(fnd6_newa1v1300_epspi/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:05:17"
+  },
+  {
+    "alpha_id": "L72qvJM",
+    "datafield": "group_rank(fnd6_newa1v1300_epspx/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:05:39"
+  },
+  {
+    "alpha_id": "xjE9ZAm",
+    "datafield": "group_rank(fnd6_newa1v1300_fca/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:06:21"
+  },
+  {
+    "alpha_id": "0wa91EK",
+    "datafield": "group_rank(fnd6_newa1v1300_fincf/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:07:18"
+  },
+  {
+    "alpha_id": "mjlAPkx",
+    "datafield": "group_rank(fnd6_newa1v1300_gdwl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:07:47"
+  },
+  {
+    "alpha_id": "2l2R16N",
+    "datafield": "group_rank(fnd6_newa1v1300_gp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:08:07"
+  },
+  {
+    "alpha_id": "3l2xqzg",
+    "datafield": "group_rank(fnd6_newa1v1300_ib/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:08:30"
+  },
+  {
+    "alpha_id": "W7xd11Z",
+    "datafield": "group_rank(fnd6_newa1v1300_ibadj/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:08:53"
+  },
+  {
+    "alpha_id": "bjKMG6M",
+    "datafield": "group_rank(fnd6_newa1v1300_ibc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:09:16"
+  },
+  {
+    "alpha_id": "N7260kw",
+    "datafield": "group_rank(fnd6_newa1v1300_ibcom/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:09:40"
+  },
+  {
+    "alpha_id": "0wadq2p",
+    "datafield": "group_rank(fnd6_newa1v1300_icapt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:10:12"
+  },
+  {
+    "alpha_id": "M72XRRo",
+    "datafield": "group_rank(fnd6_newa1v1300_intano/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:11:00"
+  },
+  {
+    "alpha_id": "ljN2b6x",
+    "datafield": "group_rank(fnd6_newa1v1300_invch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:11:43"
+  },
+  {
+    "alpha_id": "El2bX2P",
+    "datafield": "group_rank(fnd6_newa1v1300_invt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:12:03"
+  },
+  {
+    "alpha_id": "6l21OoL",
+    "datafield": "group_rank(fnd6_newa1v1300_ivncf/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:12:33"
+  },
+  {
+    "alpha_id": "rjnLmAE",
+    "datafield": "group_rank(fnd6_newa1v1300_lco/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:12:56"
+  },
+  {
+    "alpha_id": "X7OLqLl",
+    "datafield": "group_rank(fnd6_newa1v1300_lct/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:13:31"
+  },
+  {
+    "alpha_id": "Z71xZMQ",
+    "datafield": "group_rank(fnd6_newa1v1300_lo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:13:54"
+  },
+  {
+    "alpha_id": "kjYXej6",
+    "datafield": "group_rank(fnd6_newa1v1300_lse/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:14:23"
+  },
+  {
+    "alpha_id": "djPm8gX",
+    "datafield": "group_rank(fnd6_newa1v1300_lt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:14:54"
+  },
+  {
+    "alpha_id": "gj0KqVe",
+    "datafield": "group_rank(fnd6_newa2v1300_mib/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:15:20"
+  },
+  {
+    "alpha_id": "N726qLq",
+    "datafield": "group_rank(fnd6_newa2v1300_mii/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:15:46"
+  },
+  {
+    "alpha_id": "L72669n",
+    "datafield": "group_rank(fnd6_newa2v1300_ni/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:16:17"
+  },
+  {
+    "alpha_id": "W7xdX3o",
+    "datafield": "group_rank(fnd6_newa2v1300_nopi/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:16:57"
+  },
+  {
+    "alpha_id": "V7REYlb",
+    "datafield": "group_rank(fnd6_newa2v1300_oancf/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:17:18"
+  },
+  {
+    "alpha_id": "P7A6vpw",
+    "datafield": "group_rank(fnd6_newa2v1300_oiadp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:19:34"
+  },
+  {
+    "alpha_id": "Al2bwqw",
+    "datafield": "group_rank(fnd6_newa2v1300_oibdp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:20:36"
+  },
+  {
+    "alpha_id": "2l2RLa8",
+    "datafield": "group_rank(fnd6_newa2v1300_opeps/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:21:23"
+  },
+  {
+    "alpha_id": "V7RE3Mb",
+    "datafield": "group_rank(fnd6_newa2v1300_optexd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:22:05"
+  },
+  {
+    "alpha_id": "P7A6Gv7",
+    "datafield": "group_rank(fnd6_newa2v1300_pi/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:22:32"
+  },
+  {
+    "alpha_id": "Gl76lnP",
+    "datafield": "group_rank(fnd6_newa2v1300_ppegt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:23:06"
+  },
+  {
+    "alpha_id": "X7OLW25",
+    "datafield": "group_rank(fnd6_newa2v1300_ppent/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:23:46"
+  },
+  {
+    "alpha_id": "7j2Q695",
+    "datafield": "group_rank(fnd6_newa2v1300_prsho/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:25:02"
+  },
+  {
+    "alpha_id": "1w2LZl6",
+    "datafield": "group_rank(fnd6_newa2v1300_rdip/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:25:25"
+  },
+  {
+    "alpha_id": "X7OLRbm",
+    "datafield": "group_rank(fnd6_newa2v1300_rdipa/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:26:00"
+  },
+  {
+    "alpha_id": "Y79m1GR",
+    "datafield": "group_rank(fnd6_newa2v1300_rdipd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:26:26"
+  },
+  {
+    "alpha_id": "xjEQvdb",
+    "datafield": "group_rank(fnd6_newa2v1300_rdipeps/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:27:14"
+  },
+  {
+    "alpha_id": "zkLjAZO",
+    "datafield": "group_rank(fnd6_newa2v1300_re/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:27:38"
+  },
+  {
+    "alpha_id": "K726vPl",
+    "datafield": "group_rank(fnd6_newa2v1300_recch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:28:15"
+  },
+  {
+    "alpha_id": "wjv1326",
+    "datafield": "group_rank(fnd6_newa2v1300_rect/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:28:41"
+  },
+  {
+    "alpha_id": "Y79mEQM",
+    "datafield": "group_rank(fnd6_newa2v1300_reuna/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:29:01"
+  },
+  {
+    "alpha_id": "0wadge8",
+    "datafield": "group_rank(fnd6_newa2v1300_revt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:29:35"
+  },
+  {
+    "alpha_id": "0wad6Kr",
+    "datafield": "group_rank(fnd6_newa2v1300_sale/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:30:10"
+  },
+  {
+    "alpha_id": "X7OLMq1",
+    "datafield": "group_rank(fnd6_newa2v1300_seq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:30:38"
+  },
+  {
+    "alpha_id": "xjEQ52p",
+    "datafield": "group_rank(fnd6_newa2v1300_seqo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:31:01"
+  },
+  {
+    "alpha_id": "xjEQpeN",
+    "datafield": "group_rank(fnd6_newa2v1300_spced/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:32:57"
+  },
+  {
+    "alpha_id": "X7OLAM8",
+    "datafield": "group_rank(fnd6_newa2v1300_spceeps/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:33:17"
+  },
+  {
+    "alpha_id": "6l216jY",
+    "datafield": "group_rank(fnd6_newa2v1300_spi/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:33:43"
+  },
+  {
+    "alpha_id": "Q7ojxrQ",
+    "datafield": "group_rank(fnd6_newa2v1300_stkco/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:34:09"
+  },
+  {
+    "alpha_id": "P7A6VNJ",
+    "datafield": "group_rank(fnd6_newa2v1300_tstk/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:34:43"
+  },
+  {
+    "alpha_id": "6l21k6K",
+    "datafield": "group_rank(fnd6_newa2v1300_tstkn/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:35:17"
+  },
+  {
+    "alpha_id": "ezWKXzl",
+    "datafield": "group_rank(fnd6_newa2v1300_txach/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:35:43"
+  },
+  {
+    "alpha_id": "0waQbQq",
+    "datafield": "group_rank(fnd6_newa2v1300_txdb/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:36:15"
+  },
+  {
+    "alpha_id": "Al2aRXE",
+    "datafield": "group_rank(fnd6_newa2v1300_txditc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:36:38"
+  },
+  {
+    "alpha_id": "El2a5Qm",
+    "datafield": "group_rank(fnd6_newa2v1300_txp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:37:01"
+  },
+  {
+    "alpha_id": "jjMwzlZ",
+    "datafield": "group_rank(fnd6_newa2v1300_txt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:37:24"
+  },
+  {
+    "alpha_id": "oqkz8a5",
+    "datafield": "group_rank(fnd6_newa2v1300_wcap/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:37:45"
+  },
+  {
+    "alpha_id": "jjMwv2j",
+    "datafield": "group_rank(fnd6_newa2v1300_xidoc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:38:05"
+  },
+  {
+    "alpha_id": "qjwz8WE",
+    "datafield": "group_rank(fnd6_newa2v1300_xint/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:38:26"
+  },
+  {
+    "alpha_id": "djP7XZY",
+    "datafield": "group_rank(fnd6_newa2v1300_xoptd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:38:57"
+  },
+  {
+    "alpha_id": "djP7VL2",
+    "datafield": "group_rank(fnd6_newa2v1300_xopteps/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:39:20"
+  },
+  {
+    "alpha_id": "K728jXp",
+    "datafield": "group_rank(fnd6_newa2v1300_xrd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:40:14"
+  },
+  {
+    "alpha_id": "Q7olL8W",
+    "datafield": "group_rank(fnd6_newa2v1300_xsga/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:40:38"
+  },
+  {
+    "alpha_id": "L72XJEM",
+    "datafield": "group_rank(fnd6_newq_xoptdqp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:41:01"
+  },
+  {
+    "alpha_id": "Al2adKR",
+    "datafield": "group_rank(fnd6_newq_xoptepsqp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:41:21"
+  },
+  {
+    "alpha_id": "mjlzOPx",
+    "datafield": "group_rank(fnd6_newq_xoptqp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:41:56"
+  },
+  {
+    "alpha_id": "ezW2Avl",
+    "datafield": "group_rank(fnd6_newqv1300_acomincq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:42:30"
+  },
+  {
+    "alpha_id": "jjMwN6E",
+    "datafield": "group_rank(fnd6_newqv1300_acoq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:42:53"
+  },
+  {
+    "alpha_id": "xjEzwnm",
+    "datafield": "group_rank(fnd6_newqv1300_altoq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:43:28"
+  },
+  {
+    "alpha_id": "Q7olqMW",
+    "datafield": "group_rank(fnd6_newqv1300_ancq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:43:54"
+  },
+  {
+    "alpha_id": "pjpzEwV",
+    "datafield": "group_rank(fnd6_newqv1300_anoq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:44:34"
+  },
+  {
+    "alpha_id": "L72X6G1",
+    "datafield": "group_rank(fnd6_newqv1300_aociderglq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:44:54"
+  },
+  {
+    "alpha_id": "7j2XX9Z",
+    "datafield": "group_rank(fnd6_newqv1300_aociotherq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:45:20"
+  },
+  {
+    "alpha_id": "pjpzzWX",
+    "datafield": "group_rank(fnd6_newqv1300_aocipenq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:45:41"
+  },
+  {
+    "alpha_id": "Y79kWQJ",
+    "datafield": "group_rank(fnd6_newqv1300_aocisecglq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:46:10"
+  },
+  {
+    "alpha_id": "1w2makW",
+    "datafield": "group_rank(fnd6_newqv1300_aol2q/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:46:33"
+  },
+  {
+    "alpha_id": "Q7ol20r",
+    "datafield": "group_rank(fnd6_newqv1300_aoq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:47:02"
+  },
+  {
+    "alpha_id": "0waQA7r",
+    "datafield": "group_rank(fnd6_newqv1300_aqpl1q/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:47:31"
+  },
+  {
+    "alpha_id": "9X269ed",
+    "datafield": "group_rank(fnd6_newqv1300_aul3q/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:47:54"
+  },
+  {
+    "alpha_id": "W7xX9bP",
+    "datafield": "group_rank(fnd6_newqv1300_capsq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:48:25"
+  },
+  {
+    "alpha_id": "mjlzXw2",
+    "datafield": "group_rank(fnd6_newqv1300_chq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:48:48"
+  },
+  {
+    "alpha_id": "O72m9dY",
+    "datafield": "group_rank(fnd6_newqv1300_cibegniq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:49:20"
+  },
+  {
+    "alpha_id": "n7Xzg33",
+    "datafield": "group_rank(fnd6_newqv1300_cicurrq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:49:43"
+  },
+  {
+    "alpha_id": "R7va8jj",
+    "datafield": "group_rank(fnd6_newqv1300_ciderglq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:50:07"
+  },
+  {
+    "alpha_id": "N72jrEo",
+    "datafield": "group_rank(fnd6_newqv1300_cimiiq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:50:39"
+  },
+  {
+    "alpha_id": "9X267pq",
+    "datafield": "group_rank(fnd6_newqv1300_ciotherq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:51:02"
+  },
+  {
+    "alpha_id": "O72mGbb",
+    "datafield": "group_rank(fnd6_newqv1300_cipenq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:51:31"
+  },
+  {
+    "alpha_id": "xjEzjPN",
+    "datafield": "group_rank(fnd6_newqv1300_ciq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:52:09"
+  },
+  {
+    "alpha_id": "K7287Wl",
+    "datafield": "group_rank(fnd6_newqv1300_cisecglq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:52:35"
+  },
+  {
+    "alpha_id": "Q7ol33X",
+    "datafield": "group_rank(fnd6_newqv1300_citotalq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:52:58"
+  },
+  {
+    "alpha_id": "pjpzR2x",
+    "datafield": "group_rank(fnd6_newqv1300_cogsq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:53:52"
+  },
+  {
+    "alpha_id": "L72XZda",
+    "datafield": "group_rank(fnd6_newqv1300_csh12q/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:54:16"
+  },
+  {
+    "alpha_id": "qjwzErZ",
+    "datafield": "group_rank(fnd6_newqv1300_cshfdq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:54:42"
+  },
+  {
+    "alpha_id": "7j2XoYO",
+    "datafield": "group_rank(fnd6_newqv1300_cshiq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:55:05"
+  },
+  {
+    "alpha_id": "gj0Pezm",
+    "datafield": "group_rank(fnd6_newqv1300_cshopq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:55:26"
+  },
+  {
+    "alpha_id": "n7XzvGd",
+    "datafield": "group_rank(fnd6_newqv1300_cshoq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:55:55"
+  },
+  {
+    "alpha_id": "qjwz7Ej",
+    "datafield": "group_rank(fnd6_newqv1300_cshprq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:56:23"
+  },
+  {
+    "alpha_id": "Q7olWVr",
+    "datafield": "group_rank(fnd6_newqv1300_cstkq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:56:53"
+  },
+  {
+    "alpha_id": "vjozZ8w",
+    "datafield": "group_rank(fnd6_newqv1300_dcomq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:57:16"
+  },
+  {
+    "alpha_id": "Gl78XG0",
+    "datafield": "group_rank(fnd6_newqv1300_dilavq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:57:34"
+  },
+  {
+    "alpha_id": "jjMwPQO",
+    "datafield": "group_rank(fnd6_newqv1300_dlcq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:58:03"
+  },
+  {
+    "alpha_id": "J72XzwO",
+    "datafield": "group_rank(fnd6_newqv1300_dpactq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:58:37"
+  },
+  {
+    "alpha_id": "jjMwxQZ",
+    "datafield": "group_rank(fnd6_newqv1300_drcq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 07:59:20"
+  },
+  {
+    "alpha_id": "N72j8GX",
+    "datafield": "group_rank(fnd6_newqv1300_drltq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:00:32"
+  },
+  {
+    "alpha_id": "L72X22M",
+    "datafield": "group_rank(fnd6_newqv1300_epsfiq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:01:12"
+  },
+  {
+    "alpha_id": "Z71l9gd",
+    "datafield": "group_rank(fnd6_newqv1300_epspiq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:01:52"
+  },
+  {
+    "alpha_id": "rjnzMQm",
+    "datafield": "group_rank(fnd6_newqv1300_epspxq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:02:15"
+  },
+  {
+    "alpha_id": "Z71lvX8",
+    "datafield": "group_rank(fnd6_newqv1300_esopnrq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:02:39"
+  },
+  {
+    "alpha_id": "R7vaxra",
+    "datafield": "group_rank(fnd6_newqv1300_esoprq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:03:08"
+  },
+  {
+    "alpha_id": "pjpz2Jo",
+    "datafield": "group_rank(fnd6_newqv1300_fcaq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:03:41"
+  },
+  {
+    "alpha_id": "K728138",
+    "datafield": "group_rank(fnd6_newqv1300_gdwlq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:04:07"
+  },
+  {
+    "alpha_id": "mjlzv1K",
+    "datafield": "group_rank(fnd6_newqv1300_glcea12/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:04:41"
+  },
+  {
+    "alpha_id": "6l2q5Kp",
+    "datafield": "group_rank(fnd6_newqv1300_glced12/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:05:16"
+  },
+  {
+    "alpha_id": "1w2nq1R",
+    "datafield": "group_rank(fnd6_newqv1300_glceeps12/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:05:42"
+  },
+  {
+    "alpha_id": "Q7o51WM",
+    "datafield": "group_rank(fnd6_newqv1300_ibadj12/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:06:08"
+  },
+  {
+    "alpha_id": "qjwmM0E",
+    "datafield": "group_rank(fnd6_newqv1300_ibadjq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:06:39"
+  },
+  {
+    "alpha_id": "K72wlw1",
+    "datafield": "group_rank(fnd6_newqv1300_ibcomq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:07:03"
+  },
+  {
+    "alpha_id": "V7RYVow",
+    "datafield": "group_rank(fnd6_newqv1300_ibmiiq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:07:29"
+  },
+  {
+    "alpha_id": "X7OYGx5",
+    "datafield": "group_rank(fnd6_newqv1300_ibq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:07:57"
+  },
+  {
+    "alpha_id": "5l2qb6M",
+    "datafield": "group_rank(fnd6_newqv1300_icaptq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:08:18"
+  },
+  {
+    "alpha_id": "jjMdEKo",
+    "datafield": "group_rank(fnd6_newqv1300_intanoq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:08:41"
+  },
+  {
+    "alpha_id": "ljNROjO",
+    "datafield": "group_rank(fnd6_newqv1300_intanq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:09:13"
+  },
+  {
+    "alpha_id": "Gl73pj3",
+    "datafield": "group_rank(fnd6_newqv1300_invfgq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:10:07"
+  },
+  {
+    "alpha_id": "3l2nWk0",
+    "datafield": "group_rank(fnd6_newqv1300_invoq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:11:24"
+  },
+  {
+    "alpha_id": "9X2AoXe",
+    "datafield": "group_rank(fnd6_newqv1300_invrmq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:11:56"
+  },
+  {
+    "alpha_id": "Al2Oqal",
+    "datafield": "group_rank(fnd6_newqv1300_invtq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:12:25"
+  },
+  {
+    "alpha_id": "Gl730NG",
+    "datafield": "group_rank(fnd6_newqv1300_invwipq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:13:33"
+  },
+  {
+    "alpha_id": "djPlgzY",
+    "datafield": "group_rank(fnd6_newqv1300_ivltq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:14:08"
+  },
+  {
+    "alpha_id": "3l2nxx0",
+    "datafield": "group_rank(fnd6_newqv1300_ivstq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:14:34"
+  },
+  {
+    "alpha_id": "vjoJ9P3",
+    "datafield": "group_rank(fnd6_newqv1300_lcoq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:14:57"
+  },
+  {
+    "alpha_id": "djPl7Wj",
+    "datafield": "group_rank(fnd6_newqv1300_lltq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:15:32"
+  },
+  {
+    "alpha_id": "L72llXa",
+    "datafield": "group_rank(fnd6_newqv1300_lnoq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:15:56"
+  },
+  {
+    "alpha_id": "ezWqdlp",
+    "datafield": "group_rank(fnd6_newqv1300_lol2q/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:16:19"
+  },
+  {
+    "alpha_id": "mjlxr76",
+    "datafield": "group_rank(fnd6_newqv1300_loq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:16:42"
+  },
+  {
+    "alpha_id": "6l2YRaY",
+    "datafield": "group_rank(fnd6_newqv1300_loxdrq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:17:03"
+  },
+  {
+    "alpha_id": "5l2qMzX",
+    "datafield": "group_rank(fnd6_newqv1300_lqpl1q/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:17:48"
+  },
+  {
+    "alpha_id": "6l2YE3E",
+    "datafield": "group_rank(fnd6_newqv1300_lseq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:18:17"
+  },
+  {
+    "alpha_id": "Q7o5aM5",
+    "datafield": "group_rank(fnd6_newqv1300_ltmibq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:18:52"
+  },
+  {
+    "alpha_id": "kjYL3Y6",
+    "datafield": "group_rank(fnd6_newqv1300_lul3q/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:19:30"
+  },
+  {
+    "alpha_id": "jjMd0rj",
+    "datafield": "group_rank(fnd6_newqv1300_mibnq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:19:58"
+  },
+  {
+    "alpha_id": "O725xvp",
+    "datafield": "group_rank(fnd6_newqv1300_mibtq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:20:24"
+  },
+  {
+    "alpha_id": "2l2nN25",
+    "datafield": "group_rank(fnd6_newqv1300_miiq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:20:52"
+  },
+  {
+    "alpha_id": "Al2OG0Q",
+    "datafield": "group_rank(fnd6_newqv1300_msaq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:21:13"
+  },
+  {
+    "alpha_id": "6l2YlwG",
+    "datafield": "group_rank(fnd6_newqv1300_oepf12/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:21:46"
+  },
+  {
+    "alpha_id": "0waKR0K",
+    "datafield": "group_rank(fnd6_newqv1300_oepsxq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:22:10"
+  },
+  {
+    "alpha_id": "mjlxgnW",
+    "datafield": "group_rank(fnd6_newqv1300_optfvgrq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:22:35"
+  },
+  {
+    "alpha_id": "El2rpm1",
+    "datafield": "group_rank(fnd6_newqv1300_optrfrq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:23:08"
+  },
+  {
+    "alpha_id": "5l2qgL6",
+    "datafield": "group_rank(fnd6_newqv1300_piq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:23:38"
+  },
+  {
+    "alpha_id": "9X2AEZK",
+    "datafield": "group_rank(fnd6_newqv1300_pncq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:24:06"
+  },
+  {
+    "alpha_id": "1w2nj3M",
+    "datafield": "group_rank(fnd6_newqv1300_ppegtq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:24:45"
+  },
+  {
+    "alpha_id": "M7256Ao",
+    "datafield": "group_rank(fnd6_newqv1300_ppentq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:25:35"
+  },
+  {
+    "alpha_id": "oqk9axb",
+    "datafield": "group_rank(fnd6_newqv1300_prcaq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:26:04"
+  },
+  {
+    "alpha_id": "2l2n91Y",
+    "datafield": "group_rank(fnd6_newqv1300_prcdq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:26:46"
+  },
+  {
+    "alpha_id": "1w2nlvX",
+    "datafield": "group_rank(fnd6_newqv1300_prcepsq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:27:41"
+  },
+  {
+    "alpha_id": "8l2KJ9v",
+    "datafield": "group_rank(fnd6_newqv1300_prcraq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:28:19"
+  },
+  {
+    "alpha_id": "N725z2L",
+    "datafield": "group_rank(fnd6_newqv1300_rcpq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:28:52"
+  },
+  {
+    "alpha_id": "vjoJ61v",
+    "datafield": "group_rank(fnd6_newqv1300_rdipaq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:29:26"
+  },
+  {
+    "alpha_id": "Y79WYGv",
+    "datafield": "group_rank(fnd6_newqv1300_rdipdq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:29:46"
+  },
+  {
+    "alpha_id": "vjoJPoG",
+    "datafield": "group_rank(fnd6_newqv1300_rdipepsq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:30:20"
+  },
+  {
+    "alpha_id": "pjp1eNv",
+    "datafield": "group_rank(fnd6_newqv1300_rdipq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:32:00"
+  },
+  {
+    "alpha_id": "n7XOGx3",
+    "datafield": "group_rank(fnd6_newqv1300_recdq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:32:20"
+  },
+  {
+    "alpha_id": "Y79W3Rq",
+    "datafield": "group_rank(fnd6_newqv1300_rectaq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:32:50"
+  },
+  {
+    "alpha_id": "9X2AeO9",
+    "datafield": "group_rank(fnd6_newqv1300_rectoq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:33:32"
+  },
+  {
+    "alpha_id": "5l2qXwX",
+    "datafield": "group_rank(fnd6_newqv1300_rectrq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:33:56"
+  },
+  {
+    "alpha_id": "K72wWak",
+    "datafield": "group_rank(fnd6_newqv1300_reunaq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:34:26"
+  },
+  {
+    "alpha_id": "Al2OoEl",
+    "datafield": "group_rank(fnd6_newqv1300_revtq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:34:51"
+  },
+  {
+    "alpha_id": "O72b1xq",
+    "datafield": "group_rank(fnd6_newqv1300_seqoq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:35:20"
+  },
+  {
+    "alpha_id": "xjEPA0N",
+    "datafield": "group_rank(fnd6_newqv1300_seqq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:35:45"
+  },
+  {
+    "alpha_id": "R7v2Roa",
+    "datafield": "group_rank(fnd6_newqv1300_spcedpq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:36:14"
+  },
+  {
+    "alpha_id": "Al2gjrW",
+    "datafield": "group_rank(fnd6_newqv1300_spcedq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:36:43"
+  },
+  {
+    "alpha_id": "a7gA6d1",
+    "datafield": "group_rank(fnd6_newqv1300_spceepsp12/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:37:12"
+  },
+  {
+    "alpha_id": "wjvnmJp",
+    "datafield": "group_rank(fnd6_newqv1300_spceepspq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:37:46"
+  },
+  {
+    "alpha_id": "jjM9EMO",
+    "datafield": "group_rank(fnd6_newqv1300_spceepsq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:38:11"
+  },
+  {
+    "alpha_id": "5l2a0Xk",
+    "datafield": "group_rank(fnd6_newqv1300_spcep12/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:38:57"
+  },
+  {
+    "alpha_id": "9X2aLWr",
+    "datafield": "group_rank(fnd6_newqv1300_spcepd12/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:39:22"
+  },
+  {
+    "alpha_id": "ezWdRdM",
+    "datafield": "group_rank(fnd6_newqv1300_spcepq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:39:51"
+  },
+  {
+    "alpha_id": "n7XZVXd",
+    "datafield": "group_rank(fnd6_newqv1300_spceq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:40:11"
+  },
+  {
+    "alpha_id": "oqk3eo2",
+    "datafield": "group_rank(fnd6_newqv1300_spiq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:40:44"
+  },
+  {
+    "alpha_id": "n7XZ0Va",
+    "datafield": "group_rank(fnd6_newqv1300_stkcoq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:41:09"
+  },
+  {
+    "alpha_id": "N72gk9L",
+    "datafield": "group_rank(fnd6_newqv1300_stkcpaq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:41:46"
+  },
+  {
+    "alpha_id": "K72XYPj",
+    "datafield": "group_rank(fnd6_newqv1300_teqq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:42:19"
+  },
+  {
+    "alpha_id": null,
+    "datafield": "group_rank(fnd6_newqv1300_tfvaq/cap, subindustry)",
+    "status": "error: 'alpha'",
+    "timestamp": "2025-01-12 08:42:53"
+  },
+  {
+    "alpha_id": "J72gY5E",
+    "datafield": "group_rank(fnd6_newqv1300_tfvceq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:43:19"
+  },
+  {
+    "alpha_id": "oqk3Ax5",
+    "datafield": "group_rank(fnd6_newqv1300_tfvlq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:43:48"
+  },
+  {
+    "alpha_id": "vjoe9AQ",
+    "datafield": "group_rank(fnd6_newqv1300_tstknq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:44:17"
+  },
+  {
+    "alpha_id": "J72gXbj",
+    "datafield": "group_rank(fnd6_newqv1300_tstkq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:44:42"
+  },
+  {
+    "alpha_id": "gj0RmRe",
+    "datafield": "group_rank(fnd6_newqv1300_txdbaq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:46:34"
+  },
+  {
+    "alpha_id": "jjM9159",
+    "datafield": "group_rank(fnd6_newqv1300_txdbq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:47:03"
+  },
+  {
+    "alpha_id": "El2gkmK",
+    "datafield": "group_rank(fnd6_newqv1300_txdiq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:47:28"
+  },
+  {
+    "alpha_id": "5l2avwJ",
+    "datafield": "group_rank(fnd6_newqv1300_txditcq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:47:53"
+  },
+  {
+    "alpha_id": "wjvnlK5",
+    "datafield": "group_rank(fnd6_newqv1300_txpq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:49:01"
+  },
+  {
+    "alpha_id": "El2gegG",
+    "datafield": "group_rank(fnd6_newqv1300_txtq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:49:52"
+  },
+  {
+    "alpha_id": "V7R2GEA",
+    "datafield": "group_rank(fnd6_newqv1300_txwq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:50:31"
+  },
+  {
+    "alpha_id": "7j2azl8",
+    "datafield": "group_rank(fnd6_newqv1300_wcapq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:50:51"
+  },
+  {
+    "alpha_id": "ezWdzag",
+    "datafield": "group_rank(fnd6_newqv1300_xintq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:51:28"
+  },
+  {
+    "alpha_id": "1w2axwX",
+    "datafield": "group_rank(fnd6_newqv1300_xoprq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:52:03"
+  },
+  {
+    "alpha_id": "ljNQvWx",
+    "datafield": "group_rank(fnd6_newqv1300_xoptdq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:52:42"
+  },
+  {
+    "alpha_id": "djPE1qw",
+    "datafield": "group_rank(fnd6_newqv1300_xoptepsq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:53:07"
+  },
+  {
+    "alpha_id": "Q7o20qQ",
+    "datafield": "group_rank(fnd6_newqv1300_xoptq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:55:14"
+  },
+  {
+    "alpha_id": "jjM9VzE",
+    "datafield": "group_rank(fnd6_newqv1300_xrdq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:55:43"
+  },
+  {
+    "alpha_id": "3l2a1ZX",
+    "datafield": "group_rank(fnd6_newqv1300_xsgaq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:56:16"
+  },
+  {
+    "alpha_id": "9X2a8lo",
+    "datafield": "group_rank(fnd6_niadj/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:56:37"
+  },
+  {
+    "alpha_id": "oqk3G22",
+    "datafield": "group_rank(fnd6_nopio/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:57:32"
+  },
+  {
+    "alpha_id": "ljNQGE8",
+    "datafield": "group_rank(fnd6_np/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:57:57"
+  },
+  {
+    "alpha_id": "M72KZ8L",
+    "datafield": "group_rank(fnd6_npq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:58:22"
+  },
+  {
+    "alpha_id": "3l2a5vg",
+    "datafield": "group_rank(fnd6_oprepsx/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:58:42"
+  },
+  {
+    "alpha_id": "6l2aNwY",
+    "datafield": "group_rank(fnd6_optca/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:59:07"
+  },
+  {
+    "alpha_id": "N72g25o",
+    "datafield": "group_rank(fnd6_optdr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 08:59:36"
+  },
+  {
+    "alpha_id": "0waeL3v",
+    "datafield": "group_rank(fnd6_optdrq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:00:01"
+  },
+  {
+    "alpha_id": "rjnJMXd",
+    "datafield": "group_rank(fnd6_optex/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:00:43"
+  },
+  {
+    "alpha_id": "djPErMg",
+    "datafield": "group_rank(fnd6_optfvgr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:01:12"
+  },
+  {
+    "alpha_id": "qjwP2aj",
+    "datafield": "group_rank(fnd6_optgr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:01:51"
+  },
+  {
+    "alpha_id": "Q7o2x0W",
+    "datafield": "group_rank(fnd6_optlife/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:02:19"
+  },
+  {
+    "alpha_id": "V7R2WOb",
+    "datafield": "group_rank(fnd6_optlifeq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:02:48"
+  },
+  {
+    "alpha_id": "Y792RKl",
+    "datafield": "group_rank(fnd6_optosby/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:03:13"
+  },
+  {
+    "alpha_id": "Y79NjLM",
+    "datafield": "group_rank(fnd6_optosey/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:03:46"
+  },
+  {
+    "alpha_id": "wjv58Qp",
+    "datafield": "group_rank(fnd6_optprcby/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:04:15"
+  },
+  {
+    "alpha_id": "J72njbA",
+    "datafield": "group_rank(fnd6_optprcca/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:04:43"
+  },
+  {
+    "alpha_id": "N72nxqg",
+    "datafield": "group_rank(fnd6_optprcex/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:05:13"
+  },
+  {
+    "alpha_id": "Z71j6A3",
+    "datafield": "group_rank(fnd6_optprcey/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:06:08"
+  },
+  {
+    "alpha_id": "n7XnJ6z",
+    "datafield": "group_rank(fnd6_optprcgr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:06:50"
+  },
+  {
+    "alpha_id": "oqkn5lE",
+    "datafield": "group_rank(fnd6_optprcwa/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:07:23"
+  },
+  {
+    "alpha_id": "K72njEE",
+    "datafield": "group_rank(fnd6_optrfr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:07:52"
+  },
+  {
+    "alpha_id": "vjo5gw3",
+    "datafield": "group_rank(fnd6_optvol/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:08:16"
+  },
+  {
+    "alpha_id": "jjMnmGo",
+    "datafield": "group_rank(fnd6_optvolq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:08:45"
+  },
+  {
+    "alpha_id": "kjYn53l",
+    "datafield": "group_rank(fnd6_pidom/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:09:14"
+  },
+  {
+    "alpha_id": "Y79NZ0v",
+    "datafield": "group_rank(fnd6_pifo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:09:57"
+  },
+  {
+    "alpha_id": "Q7onmew",
+    "datafield": "group_rank(fnd6_pncdq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:10:26"
+  },
+  {
+    "alpha_id": "Z71jkzY",
+    "datafield": "group_rank(fnd6_pncepsq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:10:46"
+  },
+  {
+    "alpha_id": "wjv5wox",
+    "datafield": "group_rank(fnd6_pnrsho/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:11:12"
+  },
+  {
+    "alpha_id": "Z71jxg0",
+    "datafield": "group_rank(fnd6_ppeveb/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:12:42"
+  },
+  {
+    "alpha_id": "Z71jll1",
+    "datafield": "group_rank(fnd6_prcc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:13:06"
+  },
+  {
+    "alpha_id": "R7vNkM1",
+    "datafield": "group_rank(fnd6_prccq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:13:35"
+  },
+  {
+    "alpha_id": "zkL5PjE",
+    "datafield": "group_rank(fnd6_prch/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:14:17"
+  },
+  {
+    "alpha_id": "X7Okka0",
+    "datafield": "group_rank(fnd6_prchq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:15:28"
+  },
+  {
+    "alpha_id": "6l2RzkP",
+    "datafield": "group_rank(fnd6_prcl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:15:49"
+  },
+  {
+    "alpha_id": "3l2E7dN",
+    "datafield": "group_rank(fnd6_prclq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:16:36"
+  },
+  {
+    "alpha_id": "ezWnOjl",
+    "datafield": "group_rank(fnd6_prstkc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:16:57"
+  },
+  {
+    "alpha_id": "Al2nPXg",
+    "datafield": "group_rank(fnd6_pstkc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:17:51"
+  },
+  {
+    "alpha_id": null,
+    "datafield": "group_rank(fnd6_pstkl/cap, subindustry)",
+    "status": "error: ('Connection aborted.', ConnectionResetError(10054, '\u8fdc\u7a0b\u4e3b\u673a\u5f3a\u8feb\u5173\u95ed\u4e86\u4e00\u4e2a\u73b0\u6709\u7684\u8fde\u63a5\u3002', None, 10054, None))",
+    "timestamp": "2025-01-12 09:19:11"
+  },
+  {
+    "alpha_id": null,
+    "datafield": "group_rank(fnd6_pstkrv/cap, subindustry)",
+    "status": "error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "timestamp": "2025-01-12 09:19:52"
+  },
+  {
+    "alpha_id": "djPnKLx",
+    "datafield": "group_rank(fnd6_rank/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:21:25"
+  },
+  {
+    "alpha_id": "n7XnvO3",
+    "datafield": "group_rank(fnd6_rea/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:22:30"
+  },
+  {
+    "alpha_id": "vjo5ANQ",
+    "datafield": "group_rank(fnd6_reajo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:23:02"
+  },
+  {
+    "alpha_id": "mjlq0A6",
+    "datafield": "group_rank(fnd6_recco/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:24:51"
+  },
+  {
+    "alpha_id": "xjEeWQn",
+    "datafield": "group_rank(fnd6_recd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:26:12"
+  },
+  {
+    "alpha_id": "1w2o0dK",
+    "datafield": "group_rank(fnd6_recta/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:26:40"
+  },
+  {
+    "alpha_id": "zkL5EvO",
+    "datafield": "group_rank(fnd6_rectr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:27:46"
+  },
+  {
+    "alpha_id": "Al2n5AQ",
+    "datafield": "group_rank(fnd6_siv/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:28:14"
+  },
+  {
+    "alpha_id": "J72nJ9n",
+    "datafield": "group_rank(fnd6_spce/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:28:47"
+  },
+  {
+    "alpha_id": "djPnJNE",
+    "datafield": "group_rank(fnd6_sppe/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:29:29"
+  },
+  {
+    "alpha_id": "L72nv09",
+    "datafield": "group_rank(fnd6_sppiv/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:30:06"
+  },
+  {
+    "alpha_id": "R7vNgGz",
+    "datafield": "group_rank(fnd6_sstk/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:30:43"
+  },
+  {
+    "alpha_id": "gj0mnLe",
+    "datafield": "group_rank(fnd6_state/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:31:17"
+  },
+  {
+    "alpha_id": "jjM15Jj",
+    "datafield": "group_rank(fnd6_stkcpa/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:31:50"
+  },
+  {
+    "alpha_id": "V7ROk5A",
+    "datafield": "group_rank(fnd6_teq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:32:25"
+  },
+  {
+    "alpha_id": "X7O1m75",
+    "datafield": "group_rank(fnd6_tfva/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:32:54"
+  },
+  {
+    "alpha_id": "7j2JAAZ",
+    "datafield": "group_rank(fnd6_tfvce/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:33:49"
+  },
+  {
+    "alpha_id": "O72oPPq",
+    "datafield": "group_rank(fnd6_tfvl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:34:22"
+  },
+  {
+    "alpha_id": "5l2M01J",
+    "datafield": "group_rank(fnd6_tlcf/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:35:00"
+  },
+  {
+    "alpha_id": "qjwgq91",
+    "datafield": "group_rank(fnd6_tstkc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:35:42"
+  },
+  {
+    "alpha_id": "Gl7kvYG",
+    "datafield": "group_rank(fnd6_txbco/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:36:28"
+  },
+  {
+    "alpha_id": "oqkV2nJ",
+    "datafield": "group_rank(fnd6_txbcof/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:37:14"
+  },
+  {
+    "alpha_id": "oqkVQWm",
+    "datafield": "group_rank(fnd6_txc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:38:01"
+  },
+  {
+    "alpha_id": "3l2zYAN",
+    "datafield": "group_rank(fnd6_txdba/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:38:34"
+  },
+  {
+    "alpha_id": "jjM1WAZ",
+    "datafield": "group_rank(fnd6_txdbca/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:39:12"
+  },
+  {
+    "alpha_id": "O72okgb",
+    "datafield": "group_rank(fnd6_txdbcl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:39:54"
+  },
+  {
+    "alpha_id": "pjp8z3X",
+    "datafield": "group_rank(fnd6_txdbclq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:40:27"
+  },
+  {
+    "alpha_id": "xjERmbp",
+    "datafield": "group_rank(fnd6_txdc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:40:57"
+  },
+  {
+    "alpha_id": "bjKvoWZ",
+    "datafield": "group_rank(fnd6_txdfed/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:41:26"
+  },
+  {
+    "alpha_id": "ezWLneN",
+    "datafield": "group_rank(fnd6_txdfo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:41:59"
+  },
+  {
+    "alpha_id": "Y79QQjo",
+    "datafield": "group_rank(fnd6_txdi/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:42:33"
+  },
+  {
+    "alpha_id": "X7O1KKl",
+    "datafield": "group_rank(fnd6_txds/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:43:24"
+  },
+  {
+    "alpha_id": "6l2zw1G",
+    "datafield": "group_rank(fnd6_txfed/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:43:53"
+  },
+  {
+    "alpha_id": "ljNrlb2",
+    "datafield": "group_rank(fnd6_txfo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:44:17"
+  },
+  {
+    "alpha_id": "Q7oE9PG",
+    "datafield": "group_rank(fnd6_txndb/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:44:54"
+  },
+  {
+    "alpha_id": "N72Aboo",
+    "datafield": "group_rank(fnd6_txndba/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:45:40"
+  },
+  {
+    "alpha_id": "6l2zlPG",
+    "datafield": "group_rank(fnd6_txndbl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:46:22"
+  },
+  {
+    "alpha_id": "vjodkMA",
+    "datafield": "group_rank(fnd6_txndbr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:46:51"
+  },
+  {
+    "alpha_id": "djPdOMX",
+    "datafield": "group_rank(fnd6_txo/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:47:16"
+  },
+  {
+    "alpha_id": "N72AaKL",
+    "datafield": "group_rank(fnd6_txpd/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:47:49"
+  },
+  {
+    "alpha_id": "n7X3PPq",
+    "datafield": "group_rank(fnd6_txr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:48:25"
+  },
+  {
+    "alpha_id": "X7O1RxX",
+    "datafield": "group_rank(fnd6_txs/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:49:07"
+  },
+  {
+    "alpha_id": "6l2zd1O",
+    "datafield": "group_rank(fnd6_txtubadjust/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:49:28"
+  },
+  {
+    "alpha_id": "ezWLadl",
+    "datafield": "group_rank(fnd6_txtubbegin/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:50:06"
+  },
+  {
+    "alpha_id": "ezWLaXg",
+    "datafield": "group_rank(fnd6_txtubend/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:50:31"
+  },
+  {
+    "alpha_id": "N72AKbw",
+    "datafield": "group_rank(fnd6_txtubposdec/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:50:55"
+  },
+  {
+    "alpha_id": "1w2JOpQ",
+    "datafield": "group_rank(fnd6_txtubposinc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:51:24"
+  },
+  {
+    "alpha_id": "1w2Jlnz",
+    "datafield": "group_rank(fnd6_txtubpospdec/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:51:53"
+  },
+  {
+    "alpha_id": "O72ozGR",
+    "datafield": "group_rank(fnd6_txtubpospinc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:52:35"
+  },
+  {
+    "alpha_id": "R7vdK8b",
+    "datafield": "group_rank(fnd6_txtubsettle/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:53:04"
+  },
+  {
+    "alpha_id": "N72A8b7",
+    "datafield": "group_rank(fnd6_txtubsoflimit/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:53:43"
+  },
+  {
+    "alpha_id": "zkLOnrX",
+    "datafield": "group_rank(fnd6_txtubtxtr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:55:28"
+  },
+  {
+    "alpha_id": "Gl7kjgG",
+    "datafield": "group_rank(fnd6_txtubxintbs/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:56:01"
+  },
+  {
+    "alpha_id": "6l2zWQG",
+    "datafield": "group_rank(fnd6_txtubxintis/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:56:43"
+  },
+  {
+    "alpha_id": null,
+    "datafield": "group_rank(fnd6_txw/cap, subindustry)",
+    "status": "error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "timestamp": "2025-01-12 09:57:25"
+  },
+  {
+    "alpha_id": "mjlXPwK",
+    "datafield": "group_rank(fnd6_weburl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:58:11"
+  },
+  {
+    "alpha_id": "a7gOkZ6",
+    "datafield": "group_rank(fnd6_xacc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:58:45"
+  },
+  {
+    "alpha_id": "a7gOk0O",
+    "datafield": "group_rank(fnd6_xaccq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 09:59:14"
+  },
+  {
+    "alpha_id": "R7vrM01",
+    "datafield": "group_rank(fnd6_xad/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:00:09"
+  },
+  {
+    "alpha_id": "Al23WJE",
+    "datafield": "group_rank(fnd6_xintopt/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:00:45"
+  },
+  {
+    "alpha_id": "pjp7rg6",
+    "datafield": "group_rank(fnd6_xopr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:01:18"
+  },
+  {
+    "alpha_id": "0wa8008",
+    "datafield": "group_rank(fnd6_xpp/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:01:51"
+  },
+  {
+    "alpha_id": "Gl7op90",
+    "datafield": "group_rank(fnd6_xpr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:02:16"
+  },
+  {
+    "alpha_id": "Z71oGQ3",
+    "datafield": "group_rank(fnd6_xrent/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:02:46"
+  },
+  {
+    "alpha_id": "vjom0Ra",
+    "datafield": "group_rank(fnd6_zipcode/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:03:24"
+  },
+  {
+    "alpha_id": "oqkYQ1n",
+    "datafield": "group_rank(goodwill/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:04:01"
+  },
+  {
+    "alpha_id": "N72OkK7",
+    "datafield": "group_rank(income/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:04:34"
+  },
+  {
+    "alpha_id": "1w2gVRJ",
+    "datafield": "group_rank(income_beforeextra/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:05:19"
+  },
+  {
+    "alpha_id": "O729q7d",
+    "datafield": "group_rank(income_tax/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:05:48"
+  },
+  {
+    "alpha_id": "kjYKXv8",
+    "datafield": "group_rank(interest_expense/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:06:31"
+  },
+  {
+    "alpha_id": "ezWrqkd",
+    "datafield": "group_rank(inventory/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:07:04"
+  },
+  {
+    "alpha_id": "ezWrqGJ",
+    "datafield": "group_rank(inventory_turnover/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:07:33"
+  },
+  {
+    "alpha_id": "Q7oQEOW",
+    "datafield": "group_rank(invested_capital/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:09:31"
+  },
+  {
+    "alpha_id": "vjommNr",
+    "datafield": "group_rank(liabilities/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:09:56"
+  },
+  {
+    "alpha_id": "V7R8pLA",
+    "datafield": "group_rank(liabilities_curr/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:10:43"
+  },
+  {
+    "alpha_id": "Al23Pzl",
+    "datafield": "group_rank(operating_expense/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:11:17"
+  },
+  {
+    "alpha_id": "xjEnddw",
+    "datafield": "group_rank(operating_income/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:11:42"
+  },
+  {
+    "alpha_id": "gj038gK",
+    "datafield": "group_rank(ppent/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:12:24"
+  },
+  {
+    "alpha_id": "oqkYqKJ",
+    "datafield": "group_rank(pretax_income/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:12:48"
+  },
+  {
+    "alpha_id": "V7R86pw",
+    "datafield": "group_rank(rd_expense/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:13:22"
+  },
+  {
+    "alpha_id": "bjK9bN6",
+    "datafield": "group_rank(receivable/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:13:55"
+  },
+  {
+    "alpha_id": "M72x358",
+    "datafield": "group_rank(retained_earnings/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:14:24"
+  },
+  {
+    "alpha_id": "djPQK9w",
+    "datafield": "group_rank(return_assets/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:15:10"
+  },
+  {
+    "alpha_id": "El2KQ7G",
+    "datafield": "group_rank(return_equity/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:16:05"
+  },
+  {
+    "alpha_id": "oqkYPdv",
+    "datafield": "group_rank(revenue/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:17:04"
+  },
+  {
+    "alpha_id": "El2K80J",
+    "datafield": "group_rank(sales/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:17:46"
+  },
+  {
+    "alpha_id": "1w2gKYQ",
+    "datafield": "group_rank(sales_growth/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:18:14"
+  },
+  {
+    "alpha_id": "O729zgp",
+    "datafield": "group_rank(sales_ps/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:18:42"
+  },
+  {
+    "alpha_id": "5l2velz",
+    "datafield": "group_rank(sga_expense/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:19:12"
+  },
+  {
+    "alpha_id": "1w2g0zz",
+    "datafield": "group_rank(working_capital/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 10:19:45"
+  },
+  {
+    "alpha_id": "0waoJ0v",
+    "datafield": "group_rank(fnd6_dc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 21:04:09"
+  },
+  {
+    "alpha_id": "ljNQ6v7",
+    "datafield": "group_rank(fnd6_newqv1300_tfvaq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 21:04:38"
+  },
+  {
+    "alpha_id": "9X29px2",
+    "datafield": "group_rank(fnd6_pstkl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 21:05:26"
+  },
+  {
+    "alpha_id": "n7XnKQl",
+    "datafield": "group_rank(fnd6_pstkrv/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 21:06:00"
+  },
+  {
+    "alpha_id": "zkLOlJE",
+    "datafield": "group_rank(fnd6_txw/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 21:06:29"
+  },
+  {
+    "alpha_id": "0waoJ0v",
+    "datafield": "group_rank(fnd6_dc/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 21:22:28"
+  },
+  {
+    "alpha_id": "ljNQ6v7",
+    "datafield": "group_rank(fnd6_newqv1300_tfvaq/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 21:23:16"
+  },
+  {
+    "alpha_id": "9X29px2",
+    "datafield": "group_rank(fnd6_pstkl/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 21:24:04"
+  },
+  {
+    "alpha_id": "n7XnKQl",
+    "datafield": "group_rank(fnd6_pstkrv/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 21:24:30"
+  },
+  {
+    "alpha_id": "zkLOlJE",
+    "datafield": "group_rank(fnd6_txw/cap, subindustry)",
+    "status": "success",
+    "timestamp": "2025-01-12 21:24:54"
+  }
+]
