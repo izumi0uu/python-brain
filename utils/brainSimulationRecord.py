@@ -78,13 +78,30 @@ class SimulationDB:
             {'regular': regular},
             update
         )
-        
-    def get_pending_alphas(self, batch_size: int = 100) -> List[Dict]:
-        """获取待处理的Alpha"""
-        return list(self.alphas.find(
+
+    def clean_pending_batches(self):
+        """清理所有pending状态alpha的batch_id"""
+        result = self.alphas.update_many(
             {'status': 'pending'},
-            sort=[('created_at', 1)],
-            limit=batch_size
+            {
+                '$set': {
+                    'batch_id': None,
+                    'attempt_count': 0,
+                    'updated_at': datetime.now()
+                }
+            }
+        )
+        logging.info(f"Cleaned batch_id for {result.modified_count} pending alphas")
+        return result.modified_count
+        
+    def get_alphas_by_status(self, status: str = 'pending') -> List[Dict]:
+        """获取指定状态的Alpha"""
+        return list(self.alphas.find(
+            {
+                'status': status,
+                'batch_id': None  # 只获取未分配批次的
+            },
+            sort=[('created_at', 1)]
         ))
         
     def get_statistics(self, batch_id: Optional[str] = None) -> Dict:
@@ -95,21 +112,54 @@ class SimulationDB:
             {'$match': match},
             {
                 '$group': {
-                    '_id': '$status',
+                    '_id': {
+                        'batch': '$batch_id',
+                        'status': '$status'
+                    },
                     'count': {'$sum': 1}
+                }
+            },
+            {
+                '$group': {
+                    '_id': '$_id.batch',
+                    'details': {
+                        '$push': {
+                            'status': '$_id.status',
+                            'count': '$count'
+                        }
+                    }
                 }
             }
         ]
         
-        stats = {item['_id']: item['count'] 
-                for item in self.alphas.aggregate(pipeline)}
+        results = list(self.alphas.aggregate(pipeline))
         
-        return {
-            'total': sum(stats.values()),
-            'pending': stats.get('pending', 0),
-            'success': stats.get('success', 0),
-            'failed': stats.get('failed', 0)
-        }
+        if batch_id:
+            # 单个批次的统计
+            batch_stats = next((r for r in results if r['_id'] == batch_id), None)
+            if not batch_stats:
+                return {'total': 0, 'pending': 0, 'success': 0, 'failed': 0}
+                
+            stats = {'total': 0, 'pending': 0, 'success': 0, 'failed': 0}
+            for detail in batch_stats['details']:
+                status = detail['status'] or 'pending'  # 处理 None 值
+                count = detail['count']
+                stats[status] = count
+                stats['total'] += count
+            return stats
+        else:
+            # 所有批次的统计
+            all_stats = {}
+            for batch in results:
+                batch_id = batch['_id']
+                stats = {'total': 0, 'pending': 0, 'success': 0, 'failed': 0}
+                for detail in batch['details']:
+                    status = detail['status'] or 'pending'
+                    count = detail['count']
+                    stats[status] = count
+                    stats['total'] += count
+                all_stats[batch_id] = stats
+            return all_stats
 
 # 创建全局数据库实例
 db = SimulationDB()
@@ -128,11 +178,28 @@ def save_simulation_record(alpha_id: Optional[str], datafield: str,
 def check_progress(batch_id: Optional[str] = None):
     """检查处理进度"""
     stats = db.get_statistics(batch_id)
-    print(f"Total tasks: {stats['total']}")
-    print(f"Successful: {stats['success']}")
-    print(f"Failed: {stats['failed']}")
-    print(f"Pending: {stats['pending']}")
-    
-    if stats['total'] > 0:
-        success_rate = (stats['success'] / stats['total']) * 100
-        print(f"Success rate: {success_rate:.2f}%")
+
+    if batch_id:
+        # 单个批次的统计
+        print(f"\n批次 {batch_id} 的统计信息:")
+        print(f"总任务数: {stats['total']}")
+        print(f"已成功: {stats['success']}")
+        print(f"已失败: {stats['failed']}")
+        print(f"待处理: {stats['pending']}")
+        
+        if stats['total'] > 0:
+            success_rate = (stats['success'] / stats['total']) * 100
+            print(f"成功率: {success_rate:.2f}%")
+    else:
+        # 所有批次的统计
+        print("\n所有批次的统计信息:")
+        for batch_id, batch_stats in stats.items():
+            print(f"\n批次 {batch_id}:")
+            print(f"总任务数: {batch_stats['total']}")
+            print(f"已成功: {batch_stats['success']}")
+            print(f"已失败: {batch_stats['failed']}")
+            print(f"待处理: {batch_stats['pending']}")
+            
+            if batch_stats['total'] > 0:
+                success_rate = (batch_stats['success'] / batch_stats['total']) * 100
+                print(f"成功率: {success_rate:.2f}%")

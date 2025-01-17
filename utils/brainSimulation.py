@@ -141,19 +141,36 @@ class SimulationManager:
             # 每批处理完后短暂休息
             sleep(5)
 
-def run_alpha_simulation(alpha_list: List[Dict]):
+def run_alpha_simulation(alpha_list: List[Dict], batch_id: Optional[str] = None):
     """
     运行Alpha模拟的主函数
     
     Args:
         alpha_list: Alpha配置列表
+        batch_id: 批次ID
     """
     # 添加批次信息
-    batch_id = datetime.now().strftime('%Y%m%d_%H%M%S')
+    if batch_id is None:
+        batch_id = datetime.now().strftime('%Y%m%d_%H%M%S')
     
-    # 将任务添加到数据库
-    inserted = db.add_batch(alpha_list, batch_id)
-    logging.info(f"Added {inserted} alphas to batch {batch_id}")
+    # 对于pending状态的alpha，更新它们的batch_id
+    regulars = [alpha['regular'] for alpha in alpha_list]
+    db.alphas.update_many(
+        {
+            'regular': {'$in': regulars},
+            'status': 'pending'
+        },
+        {
+            '$set': {
+                'batch_id': batch_id,
+                'updated_at': datetime.now()
+            }
+        }
+    )
+    
+    # # 将新的alpha添加到数据库
+    # inserted = db.add_batch(alpha_list, batch_id)
+    # logging.info(f"Added {inserted} alphas to batch {batch_id}")
     
     # 创建模拟管理器并运行
     manager = SimulationManager(max_workers=5)
@@ -166,3 +183,37 @@ def run_alpha_simulation(alpha_list: List[Dict]):
     logging.info(f"Success: {stats['success']}")
     logging.info(f"Failed: {stats['failed']}")
     logging.info(f"Pending: {stats['pending']}")
+
+def rerun_alphas(status: str = 'pending'):
+    """
+    重新运行指定状态的Alpha
+    
+    Args:
+        status: 要处理的Alpha状态 ('pending' 或 'failed')
+    """
+    # 如果是pending状态，先清理旧的batch_id
+    if status == 'pending':
+        db.clean_pending_batches()
+    
+    # 获取需要重跑的alpha
+    alphas = db.get_alphas_by_status(status)
+    if not alphas:
+        print(f"No {status} alphas found")
+        return
+        
+    # 生成新的batch_id
+    batch_id = datetime.now().strftime('%Y%m%d_%H%M%S')
+    
+    # 准备alpha配置
+    alpha_list = []
+    for alpha in alphas:
+        alpha_list.append({
+            'type': alpha['type'],
+            'settings': alpha['settings'],
+            'regular': alpha['regular']
+        })
+    
+    # 使用原有的run_alpha_simulation函数
+    run_alpha_simulation(alpha_list, batch_id)
+
+__all__ = ['run_alpha_simulation', 'rerun_alphas']
