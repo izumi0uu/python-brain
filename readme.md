@@ -1,6 +1,6 @@
-### worldquant brain factor project
+## WORLDQUANT BRAIN FACTOR PROJECT
 
-### utils
+### UTILS
 
 - brainSaveSimulationRecord.py: 保存模拟记录到 mongo 数据库
 - brainGetDataFields.py: 获取数据字段
@@ -11,9 +11,9 @@
 
 ### run in the server
 
-#### CONFIG INFO system Alibaba Cloud Linux 3.2104 LTS 64 位
+### CONFIG INFO system Alibaba Cloud Linux 3.2104 LTS 64 位
 
-#### PYTHON environment install
+### INSTALL PYTHON ENVIRONMENT
 
 更新包管理器
 sudo yum update # CentOS
@@ -24,7 +24,7 @@ sudo yum install python3 python3-pip # CentOS
 安装虚拟环境
 python3 -m pip install virtualenv
 
-#### MongoDB install
+### INSTALL MONGODB
 
 CentOS
 创建配置文件
@@ -39,7 +39,62 @@ gpgkey=https://pgp.mongodb.com/server-6.0.asc
 
 sudo yum install -y mongodb-org
 
-### create project directory
+#### check and create necessary directories and permissions
+
+确认当前目录内容
+ls -l
+
+使用正确的目录名移动
+sudo mv mongodb-linux-x86_64-rhel88-8.0.4 /usr/local/mongodb
+
+验证移动是否成功
+ls -l /usr/local/mongodb
+
+添加到环境变量
+echo 'export PATH=/usr/local/mongodb/bin:$PATH' >> ~/.bashrc
+source ~/.bashrc
+
+创建 mongod 用户和用户组（如果不存在）
+sudo groupadd mongod
+sudo useradd -r -g mongod -s /sbin/nologin mongod
+
+创建必要的目录
+sudo mkdir -p /data/db
+sudo mkdir -p /var/log/mongodb
+sudo mkdir -p /var/run/mongodb
+
+设置正确的权限
+sudo chown -R mongod:mongod /data/db
+sudo chown -R mongod:mongod /var/log/mongodb
+sudo chown -R mongod:mongod /var/run/mongodb
+sudo chmod 755 /data/db /var/log/mongodb /var/run/mongodb
+
+恢复数据
+mongorestore /data/dump
+
+#### create config file
+
+创建配置文件目录
+sudo mkdir -p /etc/mongodb
+
+创建配置文件
+sudo vi /etc/mongodb/mongod.conf
+
+添加以下内容
+systemLog:
+destination: file
+path: /var/log/mongodb/mongod.log
+logAppend: true
+storage:
+dbPath: /data/db
+net:
+bindIp: 127.0.0.1,::1
+port: 27017
+processManagement:
+fork: true
+pidFilePath: /var/run/mongodb/mongod.pid
+
+### CREATE PROJECT DIRECTORY
 
 mkdir /home/project/python
 cd /home/project/python
@@ -50,7 +105,64 @@ source venv/bin/activate
 
 sudo mongod --dbpath /data/db
 
-### install projetc independcy
+#### create systemd service file
+
+创建服务文件
+sudo vi /etc/systemd/system/mongod.service
+
+添加以下内容
+[Unit]
+Description=MongoDB Database Server
+Documentation=https://docs.mongodb.org/manual
+After=network.target
+
+[Service]
+User=mongod
+Group=mongod
+Environment="OPTIONS=-f /etc/mongodb/mongod.conf"
+ExecStart=/usr/local/mongodb/bin/mongod $OPTIONS
+ExecStartPre=/usr/bin/mkdir -p /var/run/mongodb
+ExecStartPre=/usr/bin/chown mongod:mongod /var/run/mongodb
+ExecStartPre=/usr/bin/chmod 0755 /var/run/mongodb
+PermissionsStartOnly=true
+PIDFile=/var/run/mongodb/mongod.pid
+Type=forking
+\# file size
+LimitFSIZE=infinity
+\# cpu time
+LimitCPU=infinity
+\# virtual memory size
+LimitAS=infinity
+\# open files
+LimitNOFILE=64000
+\# processes/threads
+LimitNPROC=64000
+\# locked memory
+LimitMEMLOCK=infinity
+\# total threads (user+kernel)
+TasksMax=infinity
+TasksAccounting=false
+\# Recommended limits for mongod as specified in
+\# https://docs.mongodb.com/manual/reference/ulimit/#recommended-ulimit-settings
+
+[Install]
+WantedBy=multi-user.target
+
+#### start service
+
+重新加载 systemd
+sudo systemctl daemon-reload
+
+启动 MongoDB
+sudo systemctl start mongod
+
+检查状态
+sudo systemctl status mongod
+
+设置开机自启
+sudo systemctl enable mongod
+
+### INSTALL PROJECT DEPENDENCY
 
 创建 requirements.txt
 pip freeze > requirements.txt
@@ -60,3 +172,27 @@ pip install -r requirements.txt
 
 MongoDB 驱动
 pip install pymongo
+
+### INSTALL JUPYTERLAB
+
+进入项目目录
+cd /home/project/python
+
+激活虚拟环境
+source venv/bin/activate
+
+安装 JupyterLab
+pip install jupyterlab
+
+生成配置文件
+jupyter lab --generate-
+
+配置文件位置
+~/.jupyter/jupyter_lab_config.py
+
+### INSTALL OTHER PACKAGE
+
+pandas
+numpy
+requests
+tqdm
