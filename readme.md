@@ -1,4 +1,4 @@
-## WORLDQUANT BRAIN FACTOR PROJECT
+## WORLDQUANT BRAIN FACTOR PROJECT RUN IN THE SERVER
 
 ### UTILS
 
@@ -9,9 +9,9 @@
 - brainDatafieldsSearchScopeConfig.py: 数据字段搜索范围配置
 - brainSimulation.py: 模拟操作
 
-### run in the server
+### CONFIG INFO
 
-### CONFIG INFO system Alibaba Cloud Linux 3.2104 LTS 64 位
+system Alibaba Cloud Linux 3.2104 LTS 64 位
 
 ### INSTALL PYTHON ENVIRONMENT
 
@@ -173,22 +173,41 @@ pip install -r requirements.txt
 MongoDB 驱动
 pip install pymongo
 
-### INSTALL JUPYTERLAB
+### INSTALL JUPYTER NOTEBOOK
 
-进入项目目录
-cd /home/project/python
+安装虚拟环境工具
+pip3.8 install virtualenv
+
+创建新的虚拟环境
+python3.8 -m venv jupyter_env
 
 激活虚拟环境
-source venv/bin/activate
+source jupyter_env/bin/activate
 
-安装 JupyterLab
-pip install jupyterlab
+升级 pip
+pip install --upgrade pip
 
-生成配置文件
-jupyter lab --generate-
+安装必要的依赖
+pip install wheel
+pip install setuptools --upgrade
 
-配置文件位置
-~/.jupyter/jupyter_lab_config.py
+安装 Jupyter
+pip install jupyter
+
+启动 Jupyter Notebook
+jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root --no-browser (服务器安全组需要开放 8888 端口)
+
+浏览器访问
+http://服务器主网 ip:8888
+
+检查进程
+ps aux | grep jupyter
+
+检查端口
+netstat -tulpn | grep 8888
+
+查看日志
+cat -f jupyter.log
 
 ### INSTALL OTHER PACKAGE
 
@@ -196,3 +215,17 @@ pandas
 numpy
 requests
 tqdm
+
+### PERSONAL CONFIG
+
+/opt/Python-3.8.12/ # 这是实际的 Python 3.8.12 安装
+└── bin/
+└── python3.8 # 主要的 Python 解释器
+
+/home/project/python/venv/ # 这不是新的 Python 安装，而是一个虚拟环境
+└── bin/
+└── python -> /opt/Python-3.8.12/bin/python3.8 # 链接到主 Python
+
+/opt/Python-3.8.12 提供基础 Python 解释器
+/home/project/python/venv 是一个独立的虚拟环境，但使用的是 opt 下的 Python
+虚拟环境有自己独立的包管理，不会影响或使用 opt 下安装的包
