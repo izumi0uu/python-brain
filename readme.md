@@ -195,7 +195,7 @@ pip install setuptools --upgrade
 pip install jupyter
 
 启动 Jupyter Notebook
-jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root --no-browser (服务器安全组需要开放 8888 端口)
+nohup jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root --no-browser (服务器安全组需要开放 8888 端口)
 
 浏览器访问
 http://服务器主网 ip:8888
